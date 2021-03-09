@@ -4,8 +4,8 @@
  * binary_tree_node - Binary tree node
  * @parent: Pointer to the parent node
  * @value: integer to store
- * 
- * Return: new_node
+ *
+ * Return: new node
  */
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
