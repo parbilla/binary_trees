@@ -88,7 +88,7 @@ int _pow_recursion(int x, int y)
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {
 	int size;
- 	int height;
+	int height;
 	int max;
 
 	if (tree == NULL)
